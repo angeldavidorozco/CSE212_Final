@@ -1,6 +1,6 @@
 # Python Data Structures Tutorial
 
-* Welcome to the Python Data Structures Tutorial. A brief tutorial that cover 3 of the most used data structures, together with common application, performance, and exercises.
+Welcome to the Python Data Structures Tutorial. A brief tutorial that cover 3 of the most used data structures, together with common application, performance, and exercises.
 
 1. [Queues](Queue.md)
 2. [Linked lists](linked_list.md)
