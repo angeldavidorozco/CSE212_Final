@@ -7,11 +7,13 @@ A Linked List is a linear data structure, unlike lists, the elements are not sto
 These links can point to the next item in the array 
 
 ![Linked list](images/linked_list.JPG "Linked list - Image took from the BYU idaho learning modules")
+
 ("Linked list - Image took from the BYU idaho learning modules")
 
 Or they can point to the next and previous item, creating a "Doubly Linked List" 
 
 ![Doubly Linked list](images/dlinked_list.JPG "Doubly Linked List - Image took from the BYU idaho learning modules")
+
 ("Doubly Linked List - Image took from the BYU idaho learning modules")
 
 Linked lists are used in many real-world applications such as:
@@ -40,6 +42,7 @@ Linked lists are used in many real-world applications such as:
 * In Graphs: Linked lists can also be used to represent graphs – Adjacency List representation of Graphs is one popular example.
 
 ![Adjacency list](/Final/images/adjacency-list.webp "Adjacency list - Image took from programiz.com")
+
 ("Adjacency list - Image took from programiz.com")
 
 ## Common Operations
