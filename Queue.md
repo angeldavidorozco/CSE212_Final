@@ -1,6 +1,6 @@
 # Queues
 
-![queue representation](/Final/images/queue.JPG?raw=true "Queue Representation")
+![queue representation](/Final/images/queue.JPG "Queue Representation")
 
 ## Definition and Use Cases
 
