@@ -6,11 +6,11 @@ A Linked List is a linear data structure, unlike lists, the elements are not sto
 
 These links can point to the next item in the array 
 
-![Linked list](/Final/images/linked_list.JPG "Linked list - Image took from the BYU idaho learning modules")
+![Linked list](images/linked_list.JPG "Linked list - Image took from the BYU idaho learning modules")
 
 Or they can point to the next and previous item, creating a "Doubly Linked List" 
 
-![Doubly Linked list](/Final/images/dlinked_list.JPG "Doubly Linked List - Image took from the BYU idaho learning modules")
+![Doubly Linked list](images/dlinked_list.JPG "Doubly Linked List - Image took from the BYU idaho learning modules")
 
 Linked lists are used in many real-world applications such as:
 
