@@ -5,7 +5,7 @@ class CallController:
         self.client_queue = deque()
         self.no_client_queue = deque()
 
-    def NewClient(self, name, client=True):
+    def NewClient(self, name, client):
         if client:
             self.client_queue.append(name)
         else:

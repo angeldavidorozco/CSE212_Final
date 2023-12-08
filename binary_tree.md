@@ -4,10 +4,12 @@
 By definition, a **binary tree** is a data structure in which each node has at most two children, referred to as the left child and the right child. The first node is called the "root", other nodes form "subtrees" and the last node of every subtree is called a "leaf". Certain rules apply to the data submitted to the tree, its organization determines the type of tree you are working with.
 
 ![Tree](images/linked_list.JPG "Binary tree - Image took from the BYU idaho learning modules")
+("Binary tree - Image took from the BYU idaho learning modules")
 
 When we talk about binary tree we must talk about balance, a "balanced" tree is usually achieved by maintaining the tree in such a way that the heights of the two subtrees of any node differ by at most one.
 
 ![Balanced trees](images/balanced_trees.png "Balanced trees - Image took from www.geeksforgeeks.org")
+("Balanced trees - Image took from www.geeksforgeeks.org")
 
 ## Types of Binary Trees
 There are several types of binary trees, each with its own unique properties:
@@ -29,6 +31,7 @@ These are perfect for situations were frequent data lookups are necessary, but i
 * **Segment tree**: Is a tree data structure used for storing information about intervals, or segments. It allows querying which of the stored segments contain a given point. It is, in principle, a static structure; that is, it’s a structure that cannot be modified once it’s built
 
 ![Segment trees](images/segment.png "Segment tree - Image took from www.geeksforgeeks.org")
+("Segment tree - Image took from www.geeksforgeeks.org")
 
 Segment Trees are useful whenever you’re frequently working with ranges of numerical data. The most common use cases for Segment Trees are:
 
@@ -131,3 +134,5 @@ print(tree.nth_smallest(3))
 * Based on the previous example, implement a feature that finds the nth largest element in a set of data. Essentially, now we just have to implement an backward traversal 
 
 * [Take a look at one possible solution for this](binary_tree_exercise.py)
+
+[Back to welcome page](welcome.md)

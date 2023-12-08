@@ -101,6 +101,9 @@ CC.TakeCall() ## Should print "No clients in the queue"
 
 * For the code above, implement a new feature,  add a way to handle clients and no clients, clients should take priority on the queue and go first no matter how many no clients are there, the message now should print the number of clients and no clients in the queue, and when a TakeCall() is called, it should print the name and if it's a client or not
 
-* Tip: In the class handle the queues as 2 different queues 
+* Tip: In the class, handle the queues as 2 different queues 
 
 * [Take a look at one possible solution for this](Queue_exercise.py)
+
+
+[Back to welcome page](welcome.md)
