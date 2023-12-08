@@ -1,7 +1,5 @@
 # Queues
 
-![queue representation](images/queue.JPG "Queue Representation")
-
 ## Definition and Use Cases
 
 A Queue is a linear data structure that follows a particular order in which operations are performed. The order is First In First Out (FIFO). We can think about it as the line of any grocery store, clients get added at the back of line (end of the queue) And the first client in line (start of the queue) will be served first.
@@ -13,6 +11,8 @@ Queues normally don't allow things to be added in the middle, this property of Q
 * Traffic Management: In networking, packets of data are often lined up in a queue for transmission over the internet. The packet at the front of the queue is sent first.
 
 * Keyboard Buffer: When you type on a computer, sometimes the computer is busy and can’t keep up with your typing. The keystrokes are placed in a queue so that they can be processed in the order they were typed.
+
+![queue representation](images/queue.JPG "Queue Representation")
 
 ## Common Operations
 
