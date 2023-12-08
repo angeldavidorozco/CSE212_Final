@@ -1,4 +1,5 @@
 # Python Data Structures Tutorial
+
 ## I. Welcome
 * Introduction
 * Contact Information
