@@ -16,21 +16,21 @@ Queues normally don't allow things to be added in the middle, this property of Q
 
 ## Common Operations
 
-* enqueue(): Adds an item to the queue. If the queue is full, then it is said to be an Overflow condition.
+* Enqueue: Adds an item to the queue. If the queue is full, then it is said to be an Overflow condition.
 
-* dequeue(): Removes an item from the queue. The items are popped in the same order in which they are pushed. If the queue is empty, then it is said to be an Underflow condition.
+* Eequeue: Removes an item from the queue. The items are popped in the same order in which they are pushed. If the queue is empty, then it is said to be an Underflow condition.
 
-* size(): Return the size of the queue.
+* Size: Return the size of the queue.
 
-* empty(): Returns true if the length of the queue is zero.
+* Empty: Returns true if the length of the queue is zero.
 
 ## Common Implementations
 
 Queues in Python can be implemented using different ways:
 
-* list: List is a Python’s built-in data structure that can be used as a queue. we can replicate the common operations like enqueue() and dequeue() with append() and pop(0).
+* list: List is a Python’s built-in data structure that can be used as a queue. we can replicate the common operations like enqueue and dequeue with append and pop(0).
 
-* collections.deque: Queue in Python can be implemented using deque class from the collections module. Deque stands for "Double Ended Queue", this module includes functions like append() and popleft() whic replicates the common operations
+* collections.deque: Queue in Python can be implemented using deque class from the collections module. Deque stands for "Double Ended Queue", this module includes functions like append() and popleft() which replicates the common operations
 
 ## Which one should you pick?
 
